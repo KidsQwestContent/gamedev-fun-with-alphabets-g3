@@ -3959,6 +3959,7 @@ self.C3_ExpressionFuncs = [
 		() => "GAME",
 		() => "GAME OVER",
 		() => "playing",
+		() => "checking",
 		() => 24,
 		() => "Default",
 		() => 0.25,
